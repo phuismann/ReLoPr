@@ -11,3 +11,4 @@ Use at your own caution as the library is WIP and feel free to hint on issues / 
 
 ToDo:
 - Integrate leap years
+- Integrate Load Profile generations for other than households
